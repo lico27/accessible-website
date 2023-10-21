@@ -15,6 +15,7 @@ header {
     color: #ffffff;
 }
 
+/* Header styles */
 h1 {
     display: inline-block;
     font-size: 48px;
@@ -35,6 +36,7 @@ h4 {
     font-size: 20px;
 }
 
+/* Navigation block */
 nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -49,12 +51,14 @@ nav ul li {
     list-style-type: none;
 }
 
+/* General text styles */
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
 a:hover, a:active {
+    /* Change colour to improve accessibility */
     color: darkblue;
 }
 
@@ -62,6 +66,12 @@ p {
     font-size: 16px;
 }
 
+abbr {
+    /* Bold to improve accessibility */
+    font-weight: bold;
+}
+
+/* Positioning */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -72,6 +82,7 @@ p {
     margin-left: 25px;
 }
 
+/* Main content styles */
 #hero {
     height: 800px;
     width: 100%;
@@ -100,6 +111,7 @@ main {
     max-height: 200px;
 }
 
+/* Side bar styles */
 #benefits-bar {
     margin-right: 20px;
     padding: 20px;
@@ -122,6 +134,7 @@ main {
     max-width: 150px;
 }
 
+/* Footer styles */
 footer {
     padding: 30px;
     clear: both;
