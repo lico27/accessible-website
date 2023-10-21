@@ -54,6 +54,10 @@ a {
     text-decoration: none;
 }
 
+a:hover, a:active {
+    color: darkblue;
+}
+
 p {
     font-size: 16px;
 }
