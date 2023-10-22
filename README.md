@@ -16,7 +16,10 @@ Improving accessibility, SEO, and code quality for the website of Horiseon, a ma
 N/A
 
 ## Usage
-The updated webpage can be viewed at /index.html and the CSS can be viewed at /style.css.
+The updated webpage can be viewed at https://lico27.github.io/accessible-website and the CSS can be viewed in the repository at /style.css.
+
+### Screenshot
+![Screenshot of completed project](assets/images/screenshot.png)
 
 ## Credits
 Site structure and design created by Horiseon.
