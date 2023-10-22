@@ -1,12 +1,13 @@
 # Accessible Website for Horiseon
 
 ## Description
-Improving accessibility for the website of Horiseon, a marketing agency.
+Improving accessibility, SEO, and code quality for the website of Horiseon, a marketing agency.
 
 ### Project Deliverables
 - Reformatted code to include semantic HTML
 - Added `alt` descriptions to images
 - Made links change colour on hover
+- Added `abbr` tag to acronym
 - Restructured HTML and CSS files into a more logical order
 - Fixed broken links and `title` content
 - Added comments to CSS and HTML files to ensure clarity
